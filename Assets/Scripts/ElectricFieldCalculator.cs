@@ -3,6 +3,9 @@
 Physics 122: Superposition Mini-Project
 Caleb Rector
 
+Several other scripts were written for the interactive portion of the project, but this script does all the heavy lifting.
+You can view the other scripts here: https://github.com/carector/Superposition/tree/main/Assets/Scripts/Plumbing
+
 *************************/
 using System.Collections;
 using System.Collections.Generic;
